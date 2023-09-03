@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+
+h2{
+    background-color: beige;
+}
+
+.main {
+    height: 100px;
+    width: 300px;
+    background-color: red;
+    margin: 20px 30px;
+
+}
+
+/* Reset some default styles to create a consistent base */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color and set text color for the entire page */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header with a background color and centered text */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style the main content area with some padding and a centered text */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style links to make them stand out and remove the underline */
+a {
+    color: #0074d9;
+    text-decoration: none;
+}
+
+/* Style links on hover to give a slight highlight effect */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style the footer with a background color and centered text */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Apply some spacing and styling to headings */
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+/* Apply some spacing to paragraphs */
+p {
+    margin-bottom: 15px;
+}
+
+/* Add a border to images */
+img {
+    border: 1px solid #ddd;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
